@@ -1,0 +1,11 @@
+# Panel ayarları. Sabit port, kısayol/yer imi hep aynı adrese gitsin diye.
+
+[server]
+port = 8501
+headless = false
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+fastReruns = true
