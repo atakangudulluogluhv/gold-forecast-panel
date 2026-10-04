@@ -1,4 +1,4 @@
-# 🥇 Altın/TL Tahmin Paneli
+# Altın/TL Tahmin Paneli
 
 Gram altının TL fiyatını geçmiş verilerle tahmin eden, tahminin ne kadar güvenilir
 olduğunu geçmişe dönük testle ölçen ve sonucu Claude ile yorumlayan Streamlit paneli.
@@ -18,7 +18,7 @@ Betik gerekli her şeyi kendi yapar: sanal ortam oluşturur, paketleri kurar, `.
 dosyasını hazırlar ve paneli açar. İlk çalıştırmada paket kurulumu birkaç dakika sürer,
 sonraki açılışlar saniyeler içindedir.
 
-> 💡 Masaüstünden açmak için: `baslat.bat` → sağ tık → **Kısayol oluştur** → kısayolu
+> Masaüstünden açmak için: `baslat.bat` → sağ tık → **Kısayol oluştur** → kısayolu
 > masaüstüne taşıyın.
 
 **Elle çalıştırmak isterseniz:**
@@ -51,7 +51,7 @@ ANTHROPIC_API_KEY=sk-ant-api03-...
 Tırnak yok, boşluk yok. Kaydedip paneli yeniden başlatın; kenar çubuğunda
 "Claude API anahtarı: ✅ tanımlı" yazmalı.
 
-⚠️ Proje klasörü OneDrive/Dropbox içindeyse `.env` buluta senkronize olur. Anahtarınızın
+**Not:** Proje klasörü OneDrive/Dropbox içindeyse `.env` buluta senkronize olur. Anahtarınızın
 buluta çıkmasını istemiyorsanız projeyi senkronize edilmeyen bir klasöre taşıyın.
 
 ## İlk açılış

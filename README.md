@@ -1,4 +1,4 @@
-# 🥇 Gold Price Forecast Panel (TRY / gram)
+# Gold Price Forecast Panel (TRY / gram)
 
 *Türkçe sürüm: [README.tr.md](README.tr.md)*
 
@@ -51,7 +51,7 @@ ANTHROPIC_API_KEY=sk-ant-api03-...
 
 No quotes, no spaces. Save and restart the panel.
 
-⚠️ If the project folder sits inside OneDrive or Dropbox, `.env` is synced to the cloud.
+**Note:** if the project folder sits inside OneDrive or Dropbox, `.env` is synced to the cloud.
 Move the project to a folder that is not synced if you do not want that.
 
 ## First launch
